@@ -1,3 +1,4 @@
+// Гуи для GeekBrains
 package geekBrains.homeWork.GUI;
 
 import javafx.application.Application;
